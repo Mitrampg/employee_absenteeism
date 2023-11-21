@@ -6,6 +6,7 @@ This project is a comprehensive attempt to predict and analyze employee absences
 ## Deployment Model
 
 In this project i created a deployment model where you can try fill the characteristic of your employee to predict your employee absenteeism. This model is limited because it's just trained based on dataset in this project.
+
 Here is the deployment model link: https://bit.ly/absenteeism_predict
 
 ## Dataset
