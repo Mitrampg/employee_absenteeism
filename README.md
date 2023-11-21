@@ -3,6 +3,11 @@
 There is the significant challenges of employee absenteeism faced by organizations. 
 This project is a comprehensive attempt to predict and analyze employee absences, specifically focusing on whether an employee is likely to be absent less than or more than 3 hours.
 
+## Deployment Model
+
+In this project i created a deployment model where you can try fill the characteristic of your employee to predict your employee absenteeism. This model is limited because it's just trained based on dataset in this project.
+Here is the deployment model link: https://bit.ly/absenteeism_predict
+
 ## Dataset
 This "Absenteeism at Work" dataset contains data related to employee absenteeism at work. This dataset can be used to analyze patterns of absence at work, such as the main reasons for absence, the relationship between absence and factors such as distance to work, workload, age, and others. It can also help in planning resources and management strategies in the work environment.
 
@@ -18,7 +23,3 @@ The notebook encompasses a systematic approach starting from data exploration to
 ## Conclusion
 This notebook not only addresses the immediate need for an effective absenteeism predictive model but also lays down a methodical approach that can be replicated for similar issues in organizational settings. The blend of technical rigor and practical applicability makes this notebook a valuable asset for both data science practitioners and organizational decision-makers.
 
-## Deployment Model
-
-In this project i created a deployment model where you can try fill the characteristic of your employee to predict your employee absenteeism. This model is limited because it's just trained based on dataset in this project.
-Here is the deployment model link: https://bit.ly/absenteeism_predict
