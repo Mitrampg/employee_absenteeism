@@ -20,5 +20,5 @@ This notebook not only addresses the immediate need for an effective absenteeism
 
 ## Deployment Model
 
-In this project i created a deployment model where you can try fill the characteristic of your employee to predict your employee absenteeism. This model limited because it's just trained based on dataset in this project.
+In this project i created a deployment model where you can try fill the characteristic of your employee to predict your employee absenteeism. This model is limited because it's just trained based on dataset in this project.
 Here is the deployment model link: https://bit.ly/absenteeism_predict
