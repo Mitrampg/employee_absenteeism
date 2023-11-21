@@ -22,10 +22,9 @@ import joblib
 import warnings
 warnings.filterwarnings(action='ignore')
 
-st.header('Milestone 2')
-st.write("Nama: Mitra M P Gurusinga")
-st.write("Batch: HCK 006")
-st.write("Milestone 2 Deployment Model")
+st.header('Absenteeism Prediction')
+st.write("Created by: Mitra M P Gurusinga")
+st.write("Deployment Model")
 
 #load data
 @st.cache_data
